@@ -11,21 +11,21 @@ Link to Data (Tableau)
 
 ## Results 
 
-### Grove St PATH is the most popular Start and End Station in Hudson County in Jersey City, perhaps due to the high amount of housing units in the area with occupants who are 35 years or younger
+### (1) Grove St PATH is the most popular Start and End Station in Hudson County in Jersey City, perhaps due to the high amount of housing units in the area with occupants who are 35 years or younger
 
-#### Popularity of Start and End Stations, by count
+#### (1a) Popularity of Start and End Stations, by count
 <img src="https://github.com/ying-li-python/citi-bike/blob/master/Images/station-dashboard.png">
 
-#### Popularty of Start and End Stations, by time with housing data overlay
+#### (1b) Popularty of Start and End Stations, by time with housing data overlay
 <img src="https://github.com/ying-li-python/citi-bike/blob/master/Images/locations-with-time.png?raw=true">
 
-#### Occupants 35 years or younger live in areas with the highest Start and End Stations
+#### (1c) Occupants 35 years or younger live in areas with the highest Start and End Stations
 <img src="https://github.com/ying-li-python/citi-bike/blob/master/Images/location-popularity.png?raw=true">
 
-### Generally, May appears to be a popular month for bike ridership among Start Stations 
+### (2) Generally, May appears to be a popular month for bike ridership among Start Stations 
 <img src="https://github.com/ying-li-python/citi-bike/blob/master/Images/station-popularity.png?raw=true">
 
-### Seasonality does not appear to influence peak hours of bike ridership at 7-9am and 6pm.
+### (3) Seasonality does not appear to influence peak hours of bike ridership at 7-9am and 6pm.
 <img src="https://github.com/ying-li-python/citi-bike/blob/master/Images/peak-hours.png?raw=true">
 
 ### Majority of bike riders are male.
