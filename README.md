@@ -3,7 +3,7 @@
 # Citi Bike Ridership Analysis
 Citi Bike is NYC's bike sharing program, which is the largest in the nation. With bike ridership documented since 2013, we are interested in generating meaningful insights using interactive visualizations with Tableau. For this analysis, we retrieved 1-year data containing 416,406 rows from August 2018 to August 2019.
 
-Link to Data (Tableau) 
+[Link to Dashboard (Tableau)](https://public.tableau.com/views/CitiBikeAnalysis_15632169774590/Top10start?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link) 
 
 ## Resources 
 - [Citi Bike Data](https://www.citibikenyc.com/system-data) (Aug 2018 - Aug 2019) 
