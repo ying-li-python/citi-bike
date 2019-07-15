@@ -25,12 +25,14 @@ Link to Data (Tableau)
 ### (2) Generally, May appears to be a popular month for bike ridership among Start Stations 
 <img src="https://github.com/ying-li-python/citi-bike/blob/master/Images/station-popularity.png?raw=true">
 
-### (3) Seasonality does not appear to influence peak hours of bike ridership at 7-9am and 6pm.
+### (3) Seasonality does not appear to influence peak hours of bike ridership at 7-9am and 6pm; though there are less number of bike riders during the winter 
 <img src="https://github.com/ying-li-python/citi-bike/blob/master/Images/peak-hours.png?raw=true">
 
-### Majority of bike riders are male.
-<img src="https://github.com/ying-li-python/citi-bike/blob/master/Images/gender-age.png?raw=true">
+### (4) Majority of bike riders are male with 72%, whereas 21% are female and 5.98% unknown. May is the most popular month for both male and females to ride. It does not appear that male:female ratios influence the popularity of start stations for female riders.
+<img src="https://github.com/ying-li-python/citi-bike/blob/master/Images/gender-analysis.png?raw=true">
 
+### (5) Riders at 18 years of age have the highest trip durations whereas riders at aged 80 have the second highest trip duration. Interestingly, the bike age ranges from 16 to 131.
+<img src="https://github.com/ying-li-python/citi-bike/blob/master/Images/trip-duration.png?raw=true">
 
 ## Authors
 Ying Li
